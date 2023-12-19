@@ -1,7 +1,7 @@
 ## Olá, Eu sou David Gonçalves
 
 ### 🔎 Sobre mim
-- 🙂 Brasileiro, 31 anos, apaixonado por desenvolver soluções por meio da tecnologia.
+- 🙂 Brasileiro, 31 anos, apaixonado por desenvolver soluções por meio da tecnologia;
 - 📒 Bacharel em ciências contábeis; 
 - 💻 Cursando Análise e desenvolvimento de sistemas;
 - 👨‍💻 Focado em aprendizado especializado e contínuo;
@@ -27,3 +27,7 @@
 ### Soft Skills
 
 ---
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidGFonseca&theme=omni&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGFonseca&layout=compact&theme=omni">
+</div>

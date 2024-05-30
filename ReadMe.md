@@ -4,8 +4,7 @@
 - 🙂 Brasileiro, 31 anos, apaixonado por desenvolver soluções por meio da tecnologia;
 - 📒 Bacharel em ciências contábeis; 
 - 💻 Cursando Análise e desenvolvimento de sistemas;
-- 👨‍💻 Focado em aprendizado especializado e contínuo;
-- 🚀 Buscando migração de carreira.
+- 👨‍💻 Focado em aprendizado especializado e contínuo.
 
 ---
 
